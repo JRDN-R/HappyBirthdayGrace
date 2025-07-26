@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="p9781567229769">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+			<dc:creator>David K. Bernard</dc:creator>
+			<dc:source>URN:ISBN:978-1-56722-976-9</dc:source>
+			<dc:identifier id="p9781567229769">URN:ISBN:978-1-56722-976-9</dc:identifier>
+			<dc:publisher>Word Aflame Press</dc:publisher>
+			<dc:language>en-US</dc:language>
+			<dc:type>Text</dc:type>
+			<dc:title>pursuing holiness</dc:title>
+			<dc:format>199 pages</dc:format>
+			<dc:rights>All rights reserved</dc:rights>
+			<meta name="cover" content="cover-image" />
+			</metadata>
+<manifest>
+<item id="cover" href="xhtml/cover.xml" media-type="application/xhtml+xml"/>
+<item id="halftitle" href="xhtml/halftitle.html" media-type="application/xhtml+xml"/>
+<item id="title" href="xhtml/title.html" media-type="application/xhtml+xml"/>
+<item id="copyright" href="xhtml/copyright.html" media-type="application/xhtml+xml"/>
+<item id="contents" href="xhtml/contents.html" media-type="application/xhtml+xml"/>
+<item id="preface" href="xhtml/preface.html" media-type="application/xhtml+xml"/>
+<item id="part01" href="xhtml/part01.html" media-type="application/xhtml+xml"/>
+<item id="chapter01" href="xhtml/chapter01.html" media-type="application/xhtml+xml"/>
+<item id="part01a" href="xhtml/part01a.html" media-type="application/xhtml+xml"/>
+<item id="part02" href="xhtml/part02.html" media-type="application/xhtml+xml"/>
+<item id="chapter02" href="xhtml/chapter02.html" media-type="application/xhtml+xml"/>
+<item id="chapter03" href="xhtml/chapter03.html" media-type="application/xhtml+xml"/>
+<item id="part02a" href="xhtml/part02a.html" media-type="application/xhtml+xml"/>
+<item id="part03" href="xhtml/part03.html" media-type="application/xhtml+xml"/>
+<item id="chapter04" href="xhtml/chapter04.html" media-type="application/xhtml+xml"/>
+<item id="chapter05" href="xhtml/chapter05.html" media-type="application/xhtml+xml"/>
+<item id="part03a" href="xhtml/part03a.html" media-type="application/xhtml+xml"/>
+<item id="part04" href="xhtml/part04.html" media-type="application/xhtml+xml"/>
+<item id="chapter06" href="xhtml/chapter06.html" media-type="application/xhtml+xml"/>
+<item id="chapter07" href="xhtml/chapter07.html" media-type="application/xhtml+xml"/>
+<item id="part04a" href="xhtml/part04a.html" media-type="application/xhtml+xml"/>
+<item id="part05" href="xhtml/part05.html" media-type="application/xhtml+xml"/>
+<item id="chapter08" href="xhtml/chapter08.html" media-type="application/xhtml+xml"/>
+<item id="chapter09" href="xhtml/chapter09.html" media-type="application/xhtml+xml"/>
+<item id="part05a" href="xhtml/part05a.html" media-type="application/xhtml+xml"/>
+<item id="part06" href="xhtml/part06.html" media-type="application/xhtml+xml"/>
+<item id="chapter10" href="xhtml/chapter10.html" media-type="application/xhtml+xml"/>
+<item id="chapter11" href="xhtml/chapter11.html" media-type="application/xhtml+xml"/>
+<item id="part06a" href="xhtml/part06a.html" media-type="application/xhtml+xml"/>
+<item id="afterword" href="xhtml/afterword.html" media-type="application/xhtml+xml"/>
+<item id="additionalstudy" href="xhtml/additionalstudy.html" media-type="application/xhtml+xml"/>
+<item id="backmatter01" href="xhtml/backmatter01.html" media-type="application/xhtml+xml"/>
+<item id="css" href="styles/stylesheet.css" media-type="xhtml/css"/>
+<item id="xpgt" href="page-template.xpgt" media-type="application/page-template+xml"/>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="cover-image" media-type="image/jpeg" href="images/cover.jpg" />
+<item id="image1" media-type="image/jpeg" href="images/10.jpg" />
+<item id="image2" media-type="image/jpeg" href="images/114.jpg" />
+<item id="image3" media-type="image/jpeg" href="images/12.jpg" />
+<item id="image4" media-type="image/jpeg" href="images/126.jpg" />
+<item id="image5" media-type="image/jpeg" href="images/128.jpg" />
+<item id="image6" media-type="image/jpeg" href="images/144.jpg" />
+<item id="image7" media-type="image/jpeg" href="images/158.jpg" />
+<item id="image8" media-type="image/jpeg" href="images/160.jpg" />
+<item id="image9" media-type="image/jpeg" href="images/174.jpg" />
+<item id="image10" media-type="image/jpeg" href="images/197-1.jpg" />
+<item id="image11" media-type="image/jpeg" href="images/197-2.jpg" />
+<item id="image12" media-type="image/jpeg" href="images/197.jpg" />
+<item id="image13" media-type="image/jpeg" href="images/30.jpg" />
+<item id="image14" media-type="image/jpeg" href="images/32.jpg" />
+<item id="image15" media-type="image/jpeg" href="images/4.jpg" />
+<item id="image16" media-type="image/jpeg" href="images/48.jpg" />
+<item id="image17" media-type="image/jpeg" href="images/64.jpg" />
+<item id="image18" media-type="image/jpeg" href="images/66.jpg" />
+<item id="image19" media-type="image/jpeg" href="images/78.jpg" />
+<item id="image20" media-type="image/jpeg" href="images/94.jpg" />
+<item id="image21" media-type="image/jpeg" href="images/96.jpg" />
+</manifest>
+<spine toc="ncx">
+<itemref idref="cover"/>
+<itemref idref="halftitle"/>
+<itemref idref="title"/>
+<itemref idref="copyright"/>
+<itemref idref="contents"/>
+<itemref idref="preface"/>
+<itemref idref="part01"/>
+<itemref idref="chapter01"/>
+<itemref idref="part01a"/>
+<itemref idref="part02"/>
+<itemref idref="chapter02"/>
+<itemref idref="chapter03"/>
+<itemref idref="part02a"/>
+<itemref idref="part03"/>
+<itemref idref="chapter04"/>
+<itemref idref="chapter05"/>
+<itemref idref="part03a"/>
+<itemref idref="part04"/>
+<itemref idref="chapter06"/>
+<itemref idref="chapter07"/>
+<itemref idref="part04a"/>
+<itemref idref="part05"/>
+<itemref idref="chapter08"/>
+<itemref idref="chapter09"/>
+<itemref idref="part05a"/>
+<itemref idref="part06"/>
+<itemref idref="chapter10"/>
+<itemref idref="chapter11"/>
+<itemref idref="part06a"/>
+<itemref idref="afterword"/>
+<itemref idref="additionalstudy"/>
+<itemref idref="backmatter01"/>
+</spine>
+</package>
